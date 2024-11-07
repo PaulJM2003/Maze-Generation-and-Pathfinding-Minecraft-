@@ -1,0 +1,100 @@
+running in test mode and shortest path function activated
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze: 
+Enter the length and width of maze: 
+Maze generated successfully
+**Printing Maze**
+BasePoint: (1000, 73, 314)
+Structure: 
+xxxxxxxxx
+........x
+xxxxxxx.x
+x.x...x.x
+x.x.x.x.x
+x...x...x
+xxxxxxxxx
+**End Printing maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Maze ready to Solve...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+step [1]: (1005, 73, 321)
+step [2]: (1004, 73, 321)
+step [3]: (1003, 73, 321)
+step [4]: (1002, 73, 321)
+step [5]: (1001, 73, 321)
+step [6]: (1001, 73, 320)
+step [7]: (1001, 73, 319)
+step [8]: (1001, 73, 318)
+step [9]: (1001, 73, 317)
+step [10]: (1001, 73, 316)
+step [11]: (1001, 73, 315)
+step [12]: (1001, 73, 314)
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

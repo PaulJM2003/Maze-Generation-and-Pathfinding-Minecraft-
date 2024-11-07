@@ -1,0 +1,168 @@
+running in testing mode
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Error: Please generate a maze before building
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Error: Please build the maze before solving
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Error: Initialize the player using Solve manually first.
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze: 
+Enter the length and width of maze: 
+Maze generated successfully
+**Printing Maze**
+BasePoint: (1000, 73, 314)
+Structure: 
+xxxxxxxxx
+........x
+xxxxxxx.x
+x.x...x.x
+x.x.x.x.x
+x...x...x
+xxxxxxxxx
+**End Printing maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+Maze ready to Solve...
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+step [1]: (1005, 73, 320)
+step [2]: (1005, 73, 319)
+step [3]: (1004, 73, 319)
+step [4]: (1003, 73, 319)
+step [5]: (1003, 73, 318)
+step [6]: (1003, 73, 317)
+step [7]: (1004, 73, 317)
+step [8]: (1005, 73, 317)
+step [9]: (1005, 73, 316)
+step [10]: (1005, 73, 315)
+step [11]: (1004, 73, 315)
+step [12]: (1003, 73, 315)
+step [13]: (1004, 73, 315)
+step [14]: (1005, 73, 315)
+step [15]: (1005, 73, 316)
+step [16]: (1005, 73, 317)
+step [17]: (1004, 73, 317)
+step [18]: (1003, 73, 317)
+step [19]: (1003, 73, 318)
+step [20]: (1003, 73, 319)
+step [21]: (1004, 73, 319)
+step [22]: (1005, 73, 319)
+step [23]: (1005, 73, 320)
+step [24]: (1005, 73, 321)
+step [25]: (1004, 73, 321)
+step [26]: (1003, 73, 321)
+step [27]: (1002, 73, 321)
+step [28]: (1001, 73, 321)
+step [29]: (1001, 73, 320)
+step [30]: (1001, 73, 319)
+step [31]: (1001, 73, 318)
+step [32]: (1001, 73, 317)
+step [33]: (1001, 73, 316)
+step [34]: (1001, 73, 315)
+step [35]: (1001, 73, 314)
+step [36]: (1001, 73, 313)
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

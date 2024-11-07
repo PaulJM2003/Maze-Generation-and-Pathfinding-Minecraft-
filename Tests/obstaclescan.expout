@@ -1,0 +1,50 @@
+running in test mode and shortest path function activated
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the basePoint of maze: 
+Enter the length and width of maze: 
+Maze generated successfully
+**Printing Maze**
+BasePoint: (1082, 67, 253)
+Structure: 
+xxxxxxOOOOO
+......OOOOx
+xxxxx.xxxxx
+x...O.....x
+x.xOOOxxx.x
+x...O...x.x
+x.x.x.x.x.x
+x.x.x.x.x.x
+x.x.x.x.x.x
+x.x...x...x
+xxxxxxxxxxx
+**End Printing maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+
